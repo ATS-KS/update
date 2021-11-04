@@ -1,0 +1,13 @@
+Keys/key.pk8 Recursos\Keys\ key.pk8
+Keys/key.x509.pem Recursos\Keys\ key.x509.pem
+Lib/apksigner.jar Recursos\Lib\ apksigner.jar
+Lib/apktool.jar Recursos\Lib\ apktool.jar
+Lib/cmdow.dll Recursos\Lib\ cmdow.exe
+Lib/libeay32.dll Recursos\Lib\ libeay32.dll
+Lib/menu.dll Recursos\Lib\ menu.dll
+Lib/signapk.jar Recursos\Lib\ signapk.jar
+Lib/ssleay32.dll Recursos\Lib\ ssleay32.dll
+Lib/zipalign.exe Recursos\Lib\ zipalign.exe
+Resources/7za.exe Recursos\ 7za.exe
+Resources/log.exe Recursos\ log.exe
+Framework/1.apk Framework\ 1.apk
